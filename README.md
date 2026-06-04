@@ -16,8 +16,8 @@ This application allows users to track their daily expenses, categorize spending
 
 ## 🌐 Live Demo
 
-Frontend: To be added after deployment
-Backend API: To be added after deployment
+Frontend: [](https://mini-expense-tracker-eosin.vercel.app/)
+Backend API: [](https://mini-expense-tracker-uizd.onrender.com/redoc)
 
 ---
 
